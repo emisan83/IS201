@@ -1,0 +1,87 @@
+/* Style definitions */
+.custom-background {
+    background-color: rgb(242, 204, 237);
+    background-image: url('path/to/background.jpg');
+  }
+  
+  .styled-div {
+    background-color: rgb(255, 230, 252);
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles */
+  ol, ul, li, {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    display: block;
+  }
+  
+  iframe {
+    width: 50%;
+    height: 400px;
+  }
+.pageheading {
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #1c1919;;
+}
+
+.body{
+    background-color: rgb(255, 230, 252);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: text-bottom;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.styled-div {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-align: center;
+    position: fixed
+    left: 30px;
+    border: 3px solid #000000;
+
+  background-image: url(../assets/img/iceskating-photo.jpg);
+  height: 300px;
+  width: 300;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.tutorialinfo {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: rgb(26, 26, 125);
+  background-color: rgb(255, 249, 222);
+  
+}
+.tableau {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration-color: white;
+  background-color: black;
+}
+
+.classimg {
+  align-items: right;
+}
+.resume {
+  align-items: center;
+}
+h1 {
+  text-align: left;
+  text-decoration-color: white;
+  font-size: 100px;
+}
